@@ -1,7 +1,7 @@
 <template>
     <div class="col">
         <div class="card h-70">
-            <img :src="producto.image" class="card-img-top imagen" alt="img">
+            <img :src="producto.image" class="card-img-top imagen-card" alt="img">
             <div class="card-body">
                 <h5 class="card-title">{{producto.name}}</h5>
                 <p class="card-text">Precio ${{producto.price}}</p>
@@ -57,7 +57,7 @@ export default {
 </script>
 
 <style>
-.imagen{
+.imagen-card{
     object-fit: contain;
      width: 100%;
   height: 370px;

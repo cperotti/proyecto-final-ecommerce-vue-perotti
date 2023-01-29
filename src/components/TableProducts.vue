@@ -20,7 +20,7 @@
                 </thead>
                 <tbody>
                     <tr v-for="(producto) in filterProductsSection" :key="producto.id">
-                        <td><img :src="producto.image" class="card-img-top imagen" alt="img"></td>
+                        <td><img :src="producto.image" class="card-img-top imagen-tabla" alt="img"></td>
                         <td>{{producto.name}}</td>
                         <td>{{producto.description}}</td>
                         <td>{{producto.type}}</td>
@@ -230,9 +230,9 @@ export default {
 </script>
 
 <style scope>
-.imagen{
+.imagen-tabla{
     height: 100px;
-    object-fit: cover;
+    object-fit: contain;
 }
 .contenedor-icono svg{
     width: 30px;
