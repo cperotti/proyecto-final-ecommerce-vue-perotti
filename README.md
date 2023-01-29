@@ -2,7 +2,7 @@
 
 🌳GardenSHOP🌳 es un ecommerce de productos de jardinería
 
-## Tecnologias utilizadas
+## Tecnologías utilizadas
 
 - Vue Cli v2.6.14
 - Vue-router v3.5.1
@@ -19,14 +19,14 @@
 - usuario: carop@gmail.com
 - contraseña: cp123
 
-El usuario administrador visualiza un home con los productos mas vendidos y puede ver su detalle. Ademas tiene un apartado de 'secciones' donde puede visualizar el listado de productos, los pedidos y los usuarios registrados en 🌳GardenSHOP🌳. Para la vista de listado de productos, el usuario admin puede realizar un ABM del mismo (altas, bajas y modificaciones) y para la de listado de pedidos puede realizar la eliminacion de los mismos.
+El usuario administrador visualiza un home con los productos más vendidos y puede ver su detalle. Además tiene un apartado de 'secciones' donde puede visualizar el listado de productos, los pedidos y los usuarios registrados en 🌳GardenSHOP🌳. Para la vista de listado de productos, el usuario admin puede realizar un ABM del mismo (altas, bajas y modificaciones) y para la de listado de pedidos puede realizar la eliminacián de los mismos.
 
 ### Usuario cliente
 
 - usuario: lventura@gmail.com
 - contraseña: lv123
 
-El usuario cliente visualiza un home con descuentas y listado de los productos mas vendidos. Ademas cuenta con una vista de productos donde va a poder visualizar los tipos disponibles de productos que cuenta 🌳GardenSHOP🌳, los cuales va a poder añadirlos al carrito, ver su detalle y dejar comentarios. Tambien podra qiutar y determinar las cantidades de los productos añadidos al carrito para poder efectivizar su pedido.
+El usuario cliente visualiza un home con descuentos y listado de los productos más vendidos. Además cuenta con una vista de productos donde va a poder visualizar los tipos disponibles de productos que cuenta 🌳GardenSHOP🌳, los cuales va a poder añadirlos al carrito, ver su detalle y dejar comentarios. Tambián podrá qiutar y determinar las cantidades de los productos añadidos para poder efectivizar su pedido.
 
 ## Autora
 - Carolina Perotti
